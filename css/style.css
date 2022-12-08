@@ -45,12 +45,12 @@ body {
 }
 
 .para-heading {
-    font-size: 15px;
+    font-size: .9375rem;
     padding-top: 1.5em;
 }
 
 .card {
-    font-size: 12px;
+    font-size: .75em;
     font-weight: 200;
     max-width: 300px;
     width: 100%;
